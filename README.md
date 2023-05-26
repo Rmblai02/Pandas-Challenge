@@ -1,6 +1,7 @@
 # Pandas-Challenge
 Pandas-Challenge
-![alt_text]"C:\Users\rmbla\OneDrive\Desktop\NU Data Bootcamp Coursework\NU-VIRT-DATA-PT-04-2023-U-LOLC-main\02-Homework\04-Data-Analysis-Pandas\Instructions\Starter_Code\Images\education.png"
+![alt_text](https://github.com/Rmblai02/Pandas-Challenge/blob/84eee85fe2a1590a76025ceafd06fcf8a748697c/Instructions/Starter_Code/Images/education.png)
+
 By merging these two datasets, we can look at and compare the different schools with their student bodies. I was able to sort these out by looking at school size, school budgets, math score, reading score, and the type of school. I ended up analyzing 15 different schools and 39,170 students between them. Here are some observations that were made from this data. 
 
 First, I made a comparison based on the 15 different schools. The top 5 highest performing schools, based on their “% Overall Passing” which considers the percentage of students who passed both reading and math, were all charter schools and the top school, Cabrera High School, having 91.33% of students passing. The worst performing school was Rodriguez High School, only having 52.99% of students passing.
